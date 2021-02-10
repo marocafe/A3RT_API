@@ -1,4 +1,3 @@
-# A3RT_API
 ## リクルートグループがA3RTにて文章校正と文章生成のAPIを公開していたので触ってみた
 https://a3rt.recruit-tech.co.jp/?utm_source=lifehacker
 ### A3RTホームページでAPIキーを発行する必要があります
