@@ -87,11 +87,11 @@ class A3RT:
         else:
             print(response_status_error[data['status']])
 
+if __name__ == "__main__":
+    kousei = A3RT("{発行したAPIキー}")
+    seisei = A3RT("{発行したAPIキー}")
 
-kousei = A3RT("{発行したAPIキー}")
-seisei = A3RT("{発行したAPIキー}")
-
-text = "{任意のテキスト}"
+    text = "{任意のテキスト}"
 
 
-seisei.text_suggest_API(kousei.proofreading_API(text))
+    seisei.text_suggest_API(kousei.proofreading_API(text))
