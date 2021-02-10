@@ -3,4 +3,5 @@
 https://a3rt.recruit-tech.co.jp/?utm_source=lifehacker
 ### A3RTホームページでAPIキーを発行する必要があります
 今回はA3RTの中からproofreading APIとtext suggest APIを利用させていただきました。<br>
-文章の中の間違いを見つけ出し、間違いのあった部分から後の文章を生成するものとなっています。
+文章の中の間違いを見つけ出し修正を行い、その後の文を生成するものとなっています。<br>
+valuesのパラメーターを変えることにより結果を変えることができます。<br>
